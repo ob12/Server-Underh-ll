@@ -43,6 +43,8 @@ __*1 delvis klart__
 
 - [ ] Byt till ny timer  Upplagt: 2016-06-03
 
+- [ ] Öka styrkan på jetpacken med 340%  Upplagt: 2016-06-03
+
 - [ ] Lägga in nya maps  Upplagt: 2016-06-03
 
 ###Bhop
@@ -54,6 +56,8 @@ __*1 delvis klart__
 - [ ] Uppdatera maplistan i github med de nyaste mapparna Upplagt: 2016-06-08
 
 ###Retake
+
+- [ ] Hitta en ny headadmin: 2016-06-09
 
 ###Arena
 
@@ -78,6 +82,7 @@ __*1 delvis klart__
 - [x] bhop_enigma //ska läggas in
 - [x] bhop_freakin //ska läggas in
 - [ ] bhop_fruits2
+- [ ] bhop_fruit_heaven
 - [x] bhop_gofuckyourself //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [x] bhop_haddock //ska läggas in
 - [x] bhop_idiosyncrasy //måste fixas innan vi lägger in den
@@ -93,7 +98,7 @@ __*1 delvis klart__
 - [x] bhop_yuna //ska läggas in 
 - [x] bhop_nubia_fix //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
 - [x] bhop_adventure_final_rg1 //ska läggas in Fixat: 2016-06-09 // Har nu lagts in
-- [ ] bhop_
+- [ ] bhop__knulla_zapparn_i_röven //redan testad, jävligt svår men funkar. lägger in imorgon. //zapparn 2016-06-09
 - [ ] bhop_
 - [ ] bhop_
 - [ ] bhop_
